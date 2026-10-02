@@ -20,4 +20,4 @@ Você pode conferir alguns dos meus repositórios em destaque no meu perfil:
 ---
 
 ### 📫 Vamos nos conectar?
-* [LinkedIn]((https://www.linkedin.com/in/darlenenoronha))
+* [LinkedIn](https://www.linkedin.com/in/darlenenoronha)
